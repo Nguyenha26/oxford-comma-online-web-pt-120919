@@ -1,3 +1,5 @@
-def oxford_comma(array)
+oxford = ["fiddleheads", "orka", "kohlrabi"]
 
+def oxford_comma(array)
+  
 end
